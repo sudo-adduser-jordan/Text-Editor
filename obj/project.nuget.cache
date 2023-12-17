@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7cts5u3wDBWxRsOCcouKPZaTDlXtetnemFBImZeJz9OBrU1QpMbyB3SXFmv9jYbRTbOCBmyHeH6jYkdidS6Zsg==",
+  "dgSpecHash": "8mjXe8FtBSOTYb4Ay9Kpl4261RcJwajWf9zGARa7wquDCPsqD97J5mTbs4qsNA6c148Jki7/H/wxJZY8Yqy5qQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user 1\\Documents\\GitHub\\C-SHARP-Projects\\Text Editor\\Text Editor.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\GitHub\\text-editor\\Text Editor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
   "logs": []
 }
