@@ -14,15 +14,13 @@
 
 A simple Windows text editor with search.
 
-## Install
 
-Download and extract zip or run
 
-```
-git clone https://github.com/sudo-adduser-jordan/C-SHARP-Projects/tree/main/Text%20Editor
-```
 
 ## Usage
+```
+git clone https://github.com/sudo-adduser-jordan/text-editor
+```
 
 Create, edit, open, save, print and search .txt files.
 
